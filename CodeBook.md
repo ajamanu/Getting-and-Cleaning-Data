@@ -82,4 +82,10 @@ tBodyGyroJerkMean
 6. Step 6 Convert the variable names in the train and test data sets to that of the feature lables in step 4
 7. Step 7 As we will need to drop variables later on, we need to ensure that all the column variable names are unique. This step ensure that all the varaible names are unique.
 8. Step 8 Merge the train and test data sets to get one combined data set
-9. Step 9 
+9. Step 9 Merge the activity labels data to the numeric activity data to get a human readable description of the activity
+10. Step 10 Change the name of the subject and activity variable to something more descrpitive
+11. Step 11 Merge the subject data to the activity data and finally to the variable data
+12. Step 12 Extract the only the measurements on the mean and standard deviation for each measurement
+13. Step 13 Creates a independent tidy data set with the average of each variable for each activity and each subject.
+14. Step 14 Makes sure that there are no missing data in the tidy data. That is, that the sum of the NAs is equal to 0
+15. Step 15 Write the tidy data into your respective working directory as a text file.
