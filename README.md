@@ -11,6 +11,9 @@ Output for Course Assignment for Getting and Cleaning Data
 # Useage
 The run_analysis.R file executes a set of commands in R to load the data sets needed for the assignemnt in R. I then cleans them and outputs a tidy text file back into your working directory.
 
+# Code Book
+Please see the CodeBook.md file in this repo for further details on the data and step-by-step guide.
+
 ## Created by
 Aja Manu
 9/11/15
